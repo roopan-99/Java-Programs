@@ -1,4 +1,4 @@
-# Java Program
+# Java Programs
 
 Welcome to my Java Programs repository.
 
